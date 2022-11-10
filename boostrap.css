@@ -1,0 +1,21 @@
+.jumbotron img {
+    width: 200px;
+    border: 1px solid rgb(17, 17, 17);
+    background: rgb(245, 204, 180);
+}
+
+.jumbotron {
+    background: rgb(247, 192, 91);
+    margin: auto;
+}
+
+.about hr {
+    width: 300px;
+    border-top: 2px solid rgb(43, 42, 42);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section {
+    min-height: 550px;
+}
